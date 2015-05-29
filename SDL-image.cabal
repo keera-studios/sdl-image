@@ -25,6 +25,7 @@ Library
     Graphics.UI.SDL.Image.Version
   Includes:         SDL.h SDL_image.h
   GHC-Options:      -Wall
+  pkgconfig-depends: SDL_image
 
 source-repository head
     type:     darcs
